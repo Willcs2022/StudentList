@@ -29,6 +29,9 @@ public class Student
     public void setName(String givenName) {
         name = givenName;
     }
-    
-    
+    /**
+    * This class represents students in our application
+    *
+    * @author William Casely-Seaman
+    */    
 }
